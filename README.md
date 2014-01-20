@@ -1,0 +1,4 @@
+TrainingScore
+=============
+
+A Django website
